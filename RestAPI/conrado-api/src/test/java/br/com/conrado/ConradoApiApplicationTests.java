@@ -1,0 +1,13 @@
+package br.com.conrado;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class ConradoApiApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
